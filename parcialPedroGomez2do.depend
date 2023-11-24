@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1700173650 source:c:\users\usuario\desktop\parcial pedro gomez 2do\parcialpedrogomez2do\libreriasecundaria.c
+	"libreriaSecundaria.h"
+
+1700177058 source:c:\users\usuario\desktop\parcial pedro gomez 2do\parcialpedrogomez2do\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaPrincipal.h"
+	"libreriaSecundaria.h"
+
+1700172204 c:\users\usuario\desktop\parcial pedro gomez 2do\parcialpedrogomez2do\libreriasecundaria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700176891 source:c:\users\usuario\desktop\parcial pedro gomez 2do\parcialpedrogomez2do\libreriaprincipal.c
+	"libreriaPrincipal.h"
+
+1700176922 c:\users\usuario\desktop\parcial pedro gomez 2do\parcialpedrogomez2do\libreriaprincipal.h
+	"libreriaSecundaria.h"
+
